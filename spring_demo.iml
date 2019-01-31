@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring" removed="false">
+          <file>file://$MODULE_DIR$/src/spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Tomcat 9.0.14" level="application_server_libraries" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC>
+          <root url="file://D:/CS/JavaWeb/WebLibs/spring-framework-5.1.0.RELEASE/docs/javadoc-api" />
+        </JAVADOC>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://D:/CS/JavaWeb/WebLibs/spring-framework-5.1.0.RELEASE/libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/CS/JavaWeb/WebLibs/spring-framework-5.1.0.RELEASE/libs" />
+        </SOURCES>
+        <jarDirectory url="file://D:/CS/JavaWeb/WebLibs/spring-framework-5.1.0.RELEASE/libs" recursive="false" />
+        <jarDirectory url="file://D:/CS/JavaWeb/WebLibs/spring-framework-5.1.0.RELEASE/libs" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="JUnit5">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/plugins/junit/lib/junit-jupiter-api-5.0.0.jar!/" />
+          <root url="jar://$APPLICATION_HOME_DIR$/plugins/junit/lib/opentest4j-1.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-jupiter-api" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-jupiter-api/src/main/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-jupiter-engine" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-jupiter-engine/src/main/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-jupiter-engine/src/test/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-jupiter-migrationsupport/src/main/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-jupiter-migrationsupport/src/test/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-jupiter-params" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-jupiter-params/src/main/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-jupiter-params/src/test/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-platform-commons-java-9/src/main/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-platform-commons-java-9/src/test/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-platform-commons/src/main/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-platform-console-standalone/src/test/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-platform-console/src/main/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-platform-engine/src/main/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-platform-engine/src/test/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-platform-launcher/src/main/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-platform-runner/src/main/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-platform-suite-api/src/main/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-platform-surefire-provider/src/main/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-platform-surefire-provider/src/test/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-vintage-engine/src/main/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/junit-vintage-engine/src/test/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/platform-tests/src/jmh/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/platform-tests/src/test/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/platform-tooling-support-tests" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/platform-tooling-support-tests/projects/ant-starter/src/main/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/platform-tooling-support-tests/projects/ant-starter/src/test/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/platform-tooling-support-tests/projects/gradle-missing-engine/src/test/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/platform-tooling-support-tests/projects/gradle-starter/src/main/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/platform-tooling-support-tests/projects/gradle-starter/src/test/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/platform-tooling-support-tests/projects/maven-starter/src/main/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/platform-tooling-support-tests/projects/maven-starter/src/test/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/platform-tooling-support-tests/src/main/java" />
+          <root url="file://D:/CS/JavaWeb/WebLibs/junit5-r5.3.2/platform-tooling-support-tests/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
